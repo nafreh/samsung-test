@@ -1,0 +1,7 @@
+  
+  .product, .modelCode, .serialNumber {
+    background: #f4f4f4;
+    padding: 40px;
+    border-bottom: 1px #ccc dotted;
+
+  }
